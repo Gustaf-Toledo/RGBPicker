@@ -1,0 +1,24 @@
+body {
+  font-family: 'Ranchers', cursive;
+}
+
+.container {
+  max-width: 50rem;
+  margin: auto;
+  margin-top: 6.4rem;
+}
+
+.container .display {
+  height: 10rem;
+  background: #730AA2;
+  transition: background 100ms;
+  margin-top: 2.4rem;
+  border-radius: 0.8rem;
+  border: solid 1px black;
+}
+
+.container input {
+  width: 100%;
+  margin: 2.4rem 0;
+  display: block;
+}
